@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	var name = "ziwa2"
+	var name = "ziwa23"
 	fmt.Print(name)
 }
